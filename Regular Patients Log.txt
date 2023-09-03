@@ -1,0 +1,20 @@
+
+
+Regular Patient
+
+Name: Michael Rey Tuando
+Age: 19
+Address: Tigbauan, Iloilo
+Diagnosis: flue fever
+Amount of Payment: 20000
+Time of appointment: 02:02
+Total Payment: 20000
+Number of Contraceptives: 2
+Number of Flue Relievers: 2
+Number of Painkillers: 2
+Number of IV Fluids: 2
+Number of Antibiotics: 2
+Number of Antihypertensives: 2
+Number of Sedatives and Anesthetics: 2
+Number of Syringes and Needles: 2
+Number of Facemasks: 2

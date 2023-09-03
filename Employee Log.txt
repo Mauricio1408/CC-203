@@ -1,0 +1,128 @@
+
+
+Hospital Employee
+
+Name: Mauricio Manuel B. Singh
+Age: 19
+Address: Dumalag, Capiz
+Diagnosis: Flue Fever
+Amount of Payment: 20000
+Time of appointment: 12:12
+Total Payment: 12000
+Number of Contraceptives: 2
+Number of Flue Relievers: 2
+Number of Painkillers: 2
+Number of IV Fluids: 2
+Number of Antibiotics: 2
+Number of Antihypertensives: 2
+Number of Sedatives and Anesthetics: 2
+Number of Syringes and Needles: 2
+Number of Facemasks: 2
+
+Hospital Employee
+
+Name: Mauricio Manuel
+Age: 19
+Address: Capiz, Dumalag
+Diagnosis: flue fever
+Amount of Payment: 20000
+Time of appointment: 12:12
+Total Payment: 12000
+Number of Contraceptives: 2
+Number of Flue Relievers: 2
+Number of Painkillers: 2
+Number of IV Fluids: 2
+Number of Antibiotics: 2
+Number of Antihypertensives: 2
+Number of Sedatives and Anesthetics: 2
+Number of Syringes and Needles: 2
+Number of Facemasks: 2
+
+Hospital Employee
+
+Name: Mauricio Manuel Bergancia
+Age: 19
+Address: Poblacion Dumalag Capiz
+Diagnosis: Flue fever
+Amount of Payment: 20000
+Time of appointment: 1:1
+Total Payment: 12000
+Employee ID: 2022M0065
+
+
+Hospital Employee
+
+Name: Michael Rey Tuando
+
+Age: 19
+
+Address: Tigbauan Iloilo
+
+Diagnosis: Flue Fever
+
+Amount of Payment: 20000
+
+Time of appointment: 12:08
+
+Total Payment: 12000
+
+Employee ID: 20222M0065
+
+
+Number of Contraceptives: 2
+Number of Flue Relievers: 2
+Number of Painkillers: 2
+Number of IV Fluids: 2
+Number of Antibiotics: 2
+Number of Antihypertensives: 2
+Number of Sedatives and Anesthetics: 2
+Number of Syringes and Needles: 2
+Number of Facemasks: 2
+
+Hospital Employee
+
+Name: Maur
+
+Age: 12
+
+Address: dumala
+
+Diagnosis: flue
+
+Amount of Payment: 20000
+
+Time of appointment: 02:12
+
+Total Payment: 12000
+
+Employee ID: 2022M0065
+
+
+Number of Contraceptives: 2
+Number of Flue Relievers: 2
+Number of Painkillers: 200
+Number of IV Fluids: 200
+Number of Antibiotics: 200
+Number of Antihypertensives: 200
+Number of Sedatives and Anesthetics: 200
+Number of Syringes and Needles: 200
+Number of Facemasks: 200
+
+Hospital Employee
+
+Name: Maur
+
+Age: 18
+
+Address: poblacion dumalag
+
+Diagnosis: fever
+
+Amount of Payment: 20000
+
+Time of appointment: 01:01
+
+Total Payment: 12000
+
+Employee ID: 2022M0065
+

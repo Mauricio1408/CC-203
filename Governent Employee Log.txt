@@ -1,0 +1,35 @@
+
+
+
+Government Employee
+
+Name: Mauricio Manuel Bergancia
+Age: 19
+Address: Poblacion Dumalag Capiz
+Diagnosis: Flue fever
+Amount of Payment: 20000
+Time of appointment: 12:12
+Total Payment: 14000
+Occupation
+
+
+Government Employee
+
+Name: Mauricio Manuel B. Singh
+Age: 19
+Address: Poblacion, Dumalag, Capiz
+Diagnosis: Flue fever
+Amount of Payment: 20000
+Time of appointment: 12:12
+Total Payment: 14000
+OccupationTeacher
+
+Number of Contraceptives: 2
+Number of Flue Relievers: 2
+Number of Painkillers: 2
+Number of IV Fluids: 2
+Number of Antibiotics: 2
+Number of Antihypertensives: 2
+Number of Sedatives and Anesthetics: 2
+Number of Syringes and Needles: 2
+Number of Facemasks: 2
